@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  Alfa-Back-Console.cpp
+  AusnahmenUndThreadsMon.cpp
+  AutomatSteuerung.cpp
+  Band.cpp
+  BandSteuerung.cpp
+  Blech.cpp
+  lagerVerwaltung.cpp
+  Ofen.cpp
+  OfenSteuerung.cpp
+  ParameterListe.cpp
+  PlaetzchenAutomat.cpp
+  readConfig.cpp
+  rezept.cpp
+  werkzeuge.cpp
+  zutat.cpp
+  Code wird generiert...
+  Alfa-Back-Console.vcxproj -> E:\C++\AbschlussProjectFinal\Alfa-Back-Console\Alfa-Back-Console\x64\Debug\Alfa-Back-Console.exe
